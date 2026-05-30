@@ -951,7 +951,9 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": true
+    "issued": false,
+    "completedBy": "anup48045",
+    "completedPR": 18902
   },
   {
     "id": 69,
